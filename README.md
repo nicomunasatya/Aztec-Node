@@ -50,5 +50,18 @@
 - Pastikan Anda memiliki izin untuk menjalankan script (`chmod +x`) dan koneksi internet stabil saat menjalankan one-click script.
 - Simpan kredensial RPC dan wallet Anda dengan aman, serta pastikan Anda memiliki cukup ETH testnet dari faucet untuk operasi node.
 
+#UPDATE
+
+Update Aztec untuk node versi terbaru
+1. Install ulang
+```
+./Aztec.sh
+```
+2. Cek peer id
+```
+sudo docker logs $(docker ps -q --filter ancestor=aztecprotocol/aztec:alpha-testnet | head -n 1) 2>&1 | grep -i "peerId" | grep -o '"peerId":"[^"]*"' | cut -d'"' -f4 | head -n 1
+```
+3. Paste peer
+https://aztec.nethermind.io/
 
 Dengan langkah-langkah di atas, Anda sekarang sudah bisa mendapatkan role **Apprentice** di Discord Aztec setelah menunggu beberapa waktu dan memberikan data yang diperlukan!
