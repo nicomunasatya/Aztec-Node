@@ -135,7 +135,7 @@ function check_logs() {
 function main_menu() {
   clear
   echo -e "${LIGHT_CYAN}===============================${RESET}"
-  echo -e "${BOLD}${LIGHT_GREEN}  Script by Airdrop Node${RESET}"
+  echo -e "${BOLD}${LIGHT_GREEN}  Script Nico Munasatya powered by Airdrop Node${RESET}"
   echo -e "${LIGHT_CYAN}===============================${RESET}"
   PS3="Pilih menu: "
   options=("Install Aztec Node" "Cek Block Number" "Cek Archive Sibling Path" "Tambah Validator" "Masuk ke Screen untuk Cek Logs" "Keluar")
