@@ -174,10 +174,13 @@ aztec-up alpha-testnet
 * `RPC URL`: Create a Sepolia Ethereum HTTP API in [Alchemy](https://dashboard.alchemy.com/)
 * `BEACON RPC`: Create an account on [drpc](https://drpc.org/) and search for `Sepolia Ethereum Beacon Chain ` Endpoints.
 
-![image](https://github.com/user-attachments/assets/eae865ab-461f-46cd-b3f9-b7d118dcbbdf)
+![DRPC](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/drpc.png)
 
 ### Paid: 
-For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
+For example: [Access RockX](https://access.rockx.com?r=YxkApwDh8TZ) free voucher 100$ to buy sepolia and beacon API
+-- Register Email otp
+-- Select sepolia and beacon each 50$
+-- Payment use voucher
 
 ![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
 
