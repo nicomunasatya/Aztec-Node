@@ -178,13 +178,22 @@ aztec-up alpha-testnet
 
 ### Paid: 
 For example: [Access RockX](https://access.rockx.com?r=YxkApwDh8TZ) free voucher 100$ to buy sepolia and beacon API
--- Register Email otp
--- Select sepolia and beacon each 50$
--- Payment use voucher
 
-![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
+![RockX](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/plans%20rockx.png)
 
-![image](https://github.com/user-attachments/assets/ffb97518-cd24-46ee-b131-92b2870ac407)
+* Register Email otp
+* Select sepolia and beacon each 50$
+* Payment use voucher
+
+Below is Sepolia data limit 800K request per day and API key
+
+![Sepolia Data](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/sepolia%20data.png)
+![API key](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/api%20key%20sepolia.png)
+
+Below is Beacon data limit 800K request per day and API key
+
+![Beacon Data](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/beacon%20data.png)
+![API key](https://raw.githubusercontent.com/nicomunasatya/Aztec-Node/main/img/api%20key%20beacon.png)
 
 > You can run your own Geth & Prysm nodes to get your own `RPC URL` & `BEACON RPC` or find any other 3rd party solutions
 
